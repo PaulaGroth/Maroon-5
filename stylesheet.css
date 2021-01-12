@@ -1,0 +1,15 @@
+html{background-color: black; margin-left: 10px; margin-right: 10px; color: white; font-family: century gothic; font-size: 14pt}
+
+h1{font-size: 60pt; color: DeepPink}
+
+h2{border-top: 1px solid white; padding-top: 10px}
+
+img{padding: 4px; border: 1px solid DeepPink; margin-top: 10px; margin-left: 10px; margin-right: 10px; margin-bottom: 10px}
+
+a{color: white}
+
+table{font-size: 12pt; padding-bottom: 30px}
+
+td{vertical-align: top}
+
+p{padding-bottom: 30px}
